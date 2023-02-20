@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(219, 209, 196);
+}
+
+
+header{
+    font-size: larger;
+    font-family:cursive;
+    color: darkturquoise;
+    text-align: center;
+}
+
+hr{
+    border-style: dotted;
+    border-top: 2%;
+    border-bottom: 0%;
+    border-color:rgb(203, 112, 185);
+
+}
+
+img{
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+   
+    
+}
+
+.aboutme{
+    
+    text-align: left;     
+    font-family:monospace;
+    font-size: large;
+}
